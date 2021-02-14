@@ -75,14 +75,13 @@ p {
 a{
     text-decoration: none;
 }
-
-
-
 header nav{
+    width: 60%;
     display: flex;
     justify-content: space-between;
-    align-content: center;
-    margin: 2%;
+    align-items: center;
+    padding: 20px 2%;
+    color: black;
 }
 .middle-content{
     display:flex;
